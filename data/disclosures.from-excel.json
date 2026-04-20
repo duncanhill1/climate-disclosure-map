@@ -1,0 +1,562 @@
+[
+  {
+    "id": "australia",
+    "name": "Australia",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "AUS",
+    "hoverText": "Mandatory climate-related disclosure under the Corporations Act and AASB S2 started on 1 Jan 2025 and is being phased in across three reporting groups; ASIC RG 280 explains scope and administration.",
+    "officialUrl": "https://www.asic.gov.au/regulatory-resources/find-a-document/regulatory-guides/rg-280-sustainability-reporting/",
+    "sourceUrl": "https://treasury.gov.au/policy-topics/banking-and-finance/sustainable-finance"
+  },
+  {
+    "id": "austria",
+    "name": "Austria",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "AUT",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "bangladesh",
+    "name": "Bangladesh",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "BGD",
+    "hoverText": "A Bangladesh Bank sustainability/climate disclosure guideline page was identified, but detailed scope, ISSB alignment, and effective dates were not accessible in the reviewed sources; jurisdiction-wide status remains unspecified.",
+    "officialUrl": "https://www.bb.org.bd/aboutus/draftguinotification/guideline/sustainabilityreport.pdf",
+    "sourceUrl": "https://www.bb.org.bd/aboutus/draftguinotification/guideline/sustainabilityreport.pdf"
+  },
+  {
+    "id": "belgium",
+    "name": "Belgium",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "BEL",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "bolivia",
+    "name": "Bolivia",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "BOL",
+    "hoverText": "IFRS sources show adoption in progress: Bolivia's national standard setter approved ISSB adoption, but the regulatory pronouncement making sustainability-related reporting mandatory was still pending; mandatory date remains unspecified.",
+    "officialUrl": "Not identified in reviewed sources",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-snapshots/bolivia-ifrs-snapshot.pdf"
+  },
+  {
+    "id": "botswana",
+    "name": "Botswana",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "BWA",
+    "hoverText": "No national mandatory ISSB-style regime was identified. Current use appears guidance-based, with ESG reporting guidance and government reference to 2024 Sustainability Disclosure Guidance and an upcoming national ESG strategy.",
+    "officialUrl": "https://www.gov.bw/sites/default/files/2025-03/Ministry%20of%20Finace%20Committee%20of%20Supply%20Speech%20%2004.03.2025%20final__0.pdf",
+    "sourceUrl": "https://www.bse.co.bw/wp-content/uploads/2021/02/BSE_Guidance-for-Listed-Companies-on-Reporting-ESG-Information-to-Invest....pdf"
+  },
+  {
+    "id": "brazil",
+    "name": "Brazil",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "BRA",
+    "hoverText": "Brazil has a mandatory ISSB-based regime. Voluntary use began from FY2024 and local CBPS standards become mandatory for listed entities from FY2026; major financial institutions also face phased CBPS requirements.",
+    "officialUrl": "https://www.gov.br/cvm/en/foreign-investors/regulation-files/ResolutionCVM193.pdf",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/brazil-ifrs-profile.pdf"
+  },
+  {
+    "id": "bulgaria",
+    "name": "Bulgaria",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "BGR",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "california",
+    "name": "California",
+    "type": "state",
+    "parentCountry": "United States",
+    "isoCode": "US-CA",
+    "hoverText": "California has the broadest current state-level corporate climate disclosure regime in this set. SB 253 requires annual Scope 1 and 2 reporting from 2026 and Scope 3 from 2027 for qualifying entities doing business in California; SB 261 separately requires climate-related financial-risk reporting.",
+    "officialUrl": "https://ww2.arb.ca.gov/our-work/programs/california-corporate-greenhouse-gas-ghg-reporting-and-climate-related-financial",
+    "sourceUrl": "https://ww2.arb.ca.gov/our-work/programs/california-corporate-greenhouse-gas-ghg-reporting-and-climate-related-financial"
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "CAN",
+    "hoverText": "Canada's CSSB finalized CSDS 1 and CSDS 2 in Dec 2024, but they are voluntary unless mandated by legislation or a regulator. The CSA said in Apr 2025 it was pausing work on a new mandatory climate rule, while material climate-risk disclosure still applies under securities law.",
+    "officialUrl": "https://www.securities-administrators.ca/news/csa-updates-market-on-approach-to-climate-related-and-diversity-related-disclosure-projects/",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-snapshots/canada-ifrs-snapshot.pdf"
+  },
+  {
+    "id": "chile",
+    "name": "Chile",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "CHL",
+    "hoverText": "Chile already had phased TCFD/SASB-based reporting under CMF Rule 461. CMF Rule 519 shifts the regime toward IFRS S1/S2 for annual periods starting in 2026, to be reported in 2027.",
+    "officialUrl": "https://www.cmfchile.cl/normativa/ncg_519_2024.pdf",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/chile-ifrs-profile.pdf"
+  },
+  {
+    "id": "china",
+    "name": "China",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "CHN",
+    "hoverText": "China's regime remains in progress. The Ministry of Finance system is based on IFRS S1/S2 but localized: the Basic Standard (Trial) was issued in Nov 2024 and a climate standard exposure draft followed in Apr 2025, with broader architecture targeted by 2030.",
+    "officialUrl": "https://kjs.mof.gov.cn/zhengcefabu/202412/P020241216565879245839.pdf",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-snapshots/china-ifrs-snapshot.pdf"
+  },
+  {
+    "id": "czech-republic",
+    "name": "Czech Republic",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "CZE",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "denmark",
+    "name": "Denmark",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "DNK",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "estonia",
+    "name": "Estonia",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "EST",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "finland",
+    "name": "Finland",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "FIN",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "FRA",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "DEU",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "greece",
+    "name": "Greece",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "GRC",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "hungary",
+    "name": "Hungary",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "HUN",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "india",
+    "name": "India",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "IND",
+    "hoverText": "India uses SEBI's BRSR framework for listed companies, with mandatory BRSR for the top 1,000 listed entities from FY2022-23 after a voluntary FY2021-22 period; SEBI added the BRSR Core assurance/value-chain framework in 2023.",
+    "officialUrl": "https://www.sebi.gov.in/legal/circulars/may-2021/business-responsibility-and-sustainability-reporting-by-listed-entities_50096.html",
+    "sourceUrl": "https://www.sebi.gov.in/legal/circulars/jul-2023/brsr-core-framework-for-assurance-and-esg-disclosures-for-value-chain_73854.html"
+  },
+  {
+    "id": "indonesia",
+    "name": "Indonesia",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "IDN",
+    "hoverText": "Indonesia currently combines OJK sustainable-finance reporting rules with an ISSB-based standard-setting roadmap. OJK Regulation 51/2017 already requires sustainability reporting for financial institutions, issuers, and public companies, while IAI's roadmap moves the jurisdiction toward IFRS S1/S2-style standards.",
+    "officialUrl": "https://ojk.go.id/en/Fungsi-Utama/OJK-Wide/Pages/Keuangan-Berkelanjutan.aspx",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-snapshots/indonesia-ifrs-snapshot.pdf"
+  },
+  {
+    "id": "ireland",
+    "name": "Ireland",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "IRL",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "israel",
+    "name": "Israel",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "ISR",
+    "hoverText": "No fully mandated ISSB-style economy-wide regime was identified in the reviewed official sources. Current use appears to rely on voluntary ESG disclosure recommendations and policy positions; climate-specific mandatory details remain unspecified.",
+    "officialUrl": "https://www.gov.il/en/pages/moep_position_esg",
+    "sourceUrl": "https://www.gov.il/en/pages/moep_position_esg"
+  },
+  {
+    "id": "italy",
+    "name": "Italy",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "ITA",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "JPN",
+    "hoverText": "Japan already requires sustainability information in annual securities reports under a 2023 FSA rule aligned to the TCFD pillars. SSBJ issued Japanese sustainability disclosure standards in Mar 2025, but economy-wide mandatory application remains under consideration.",
+    "officialUrl": "https://www.fsa.go.jp/en/newsletter/accessfsa2023/235.pdf",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-snapshots/japan-ifrs-snapshot.pdf"
+  },
+  {
+    "id": "kenya",
+    "name": "Kenya",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "KEN",
+    "hoverText": "Kenya's ICPAK roadmap adopts IFRS S1/S2. Reporting is permitted from 1 Jan 2024, then becomes mandatory in phases from 2027 for public interest entities, 2028 for large non-PIEs, and 2029 for SMEs.",
+    "officialUrl": "https://www.icpak.com/roadmap-for-the-adoption-of-ifrs-sustainability-disclosure-standards-in-kenya/",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/kenya-ifrs-profile.pdf"
+  },
+  {
+    "id": "latvia",
+    "name": "Latvia",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "LVA",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "lithuania",
+    "name": "Lithuania",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "LTU",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "malaysia",
+    "name": "Malaysia",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "MYS",
+    "hoverText": "Malaysia has a phased mandatory IFRS S1/S2 regime under the NSRF and Bursa Malaysia listing-rule amendments. Climate-first reporting begins for annual periods starting 1 Jan 2025, 2026, and 2027 by group, while full IFRS S1/S2 reporting starts in 2027, 2028, and 2030 respectively.",
+    "officialUrl": "https://www.bursamalaysia.com/sites/5bb54be15f36ca0af339077a/content_entry5c11a9db758f8d31544574c6/6768e229e6414a4ba0eb9f4d/files/23122024__MEDIA_RELEASE_BURSA_MALAYSIA_REQUIRES_SUSTAINABILITY_REPORTING_USING_THE_IFRS_SUSTAINABILITY_DISCLOSURE_STANDARDS.pdf?1734927108=",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/malaysia-ifrs-profile.pdf"
+  },
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "MEX",
+    "hoverText": "Mexico has mandated ISSB standards for most supervised issuers through CNBV changes to the CUE. The rules took effect on 29 Jan 2025, and first sustainability-related financial information is due in 2026 for FY2025.",
+    "officialUrl": "https://www.cnbv.gob.mx/Normatividad/Disposiciones%20de%20car%C3%A1cter%20general%20aplicables%20a%20las%20emisoras%20de%20valores%20y%20a%20otros%20participantes%20del%20mercado%20de%20valores.pdf",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/mexico-ifrs-profile.pdf"
+  },
+  {
+    "id": "netherlands",
+    "name": "Netherlands",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "NLD",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "new-jersey",
+    "name": "New Jersey",
+    "type": "state",
+    "parentCountry": "United States",
+    "isoCode": "US-NJ",
+    "hoverText": "No broad economy-wide corporate climate disclosure statute was identified. New Jersey currently has a sectoral insurance disclosure regime: NJDOBI requires certain licensed insurers to respond to the TCFD-aligned Climate Risk Disclosure Survey.",
+    "officialUrl": "https://www.nj.gov/dobi/bulletins/blt25_05.pdf",
+    "sourceUrl": "https://www.nj.gov/dobi/bulletins/blt25_05.pdf"
+  },
+  {
+    "id": "new-york",
+    "name": "New York",
+    "type": "state",
+    "parentCountry": "United States",
+    "isoCode": "US-NY",
+    "hoverText": "No broad New York corporate climate disclosure law of general application was identified. Current requirements are sectoral and supervisory: DFS final guidance for insurers and separate banking/mortgage guidance expects climate-risk governance, risk management, and disclosure development with reference to TCFD-style approaches.",
+    "officialUrl": "https://www.dfs.ny.gov/industry_guidance/climate_change",
+    "sourceUrl": "https://www.dfs.ny.gov/industry_guidance/climate_change"
+  },
+  {
+    "id": "new-zealand",
+    "name": "New Zealand",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "NZL",
+    "hoverText": "New Zealand's climate-related disclosure regime is mandatory for climate reporting entities under the FMC Act for financial years beginning on or after 1 Jan 2023, using NZ CS 1-3; GHG assurance is required for periods ending on or after 27 Oct 2024.",
+    "officialUrl": "https://www.fma.govt.nz/business/services/climate-reporting-entities/",
+    "sourceUrl": "https://www.xrb.govt.nz/standards/climate-related-disclosures/aotearoa-new-zealand-climate-standards/"
+  },
+  {
+    "id": "nigeria",
+    "name": "Nigeria",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "NGA",
+    "hoverText": "Nigeria's FRC roadmap adopts IFRS S1/S2 and future ISSB standards. Application is permitted from 1 Jan 2024, then becomes mandatory from 1 Jan 2028 for public interest entities and from 1 Jan 2030 for SMEs; updated guidance was issued in 2026.",
+    "officialUrl": "https://frcnigeria.gov.ng/wp-content/uploads/2024/07/FINAL-COPY-OF-SUSTAINABILITY-ROADMAP-1.pdf",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/nigeria-ifrs-profile.pdf"
+  },
+  {
+    "id": "pakistan",
+    "name": "Pakistan",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "PAK",
+    "hoverText": "Pakistan has mandated IFRS S1 and IFRS S2 through an SECP order under a three-phase rollout. Phase I starts for annual periods beginning on or after 1 Jul 2025, followed by 2026 and 2027 phases.",
+    "officialUrl": "https://www.secp.gov.pk/wp-content/uploads/2025/01/Press-release-on-Jan-1.pdf",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/pakistan-ifrs-profile.pdf"
+  },
+  {
+    "id": "philippines",
+    "name": "Philippines",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "PHL",
+    "hoverText": "The Philippines still uses SEC sustainability reporting guidelines for publicly listed companies, while IFRS-based PFRS S1/PFRS S2 adoption is progressing through domestic standard-setting; mandatory ISSB-style implementation remains in progress.",
+    "officialUrl": "https://www.sec.gov.ph/wp-content/uploads/2019/10/2019MCNo04.pdf",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-snapshots/philippines-ifrs-snapshot.pdf"
+  },
+  {
+    "id": "poland",
+    "name": "Poland",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "POL",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "PRT",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "romania",
+    "name": "Romania",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "ROU",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "slovakia",
+    "name": "Slovakia",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "SVK",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "slovenia",
+    "name": "Slovenia",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "SVN",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "south-africa",
+    "name": "South Africa",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "ZAF",
+    "hoverText": "South Africa currently relies mainly on guidance rather than a hard mandatory ISSB filing rule. JSE sustainability/climate disclosure guidance is in use, and the FSCA expects future alignment with IFRS S1/S2, but final mandatory timing remains unspecified.",
+    "officialUrl": "https://www.fsca.co.za/Documents/FSCA%20Sustainable%20Finance%20Update%20Report%202025.pdf",
+    "sourceUrl": "https://www.fsca.co.za/Documents/FSCA%20Sustainable%20Finance%20Update%20Report%202025.pdf"
+  },
+  {
+    "id": "south-korea",
+    "name": "South Korea",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "KOR",
+    "hoverText": "South Korea remains in progress. The KSSB exposure draft is based on IFRS S1/S2 with an additional local policy-disclosure layer; staged adoption after 2026 is under consideration and final mandatory timing remains to be determined.",
+    "officialUrl": "https://www.fsc.go.kr/eng/pr010101/81707",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-snapshots/south-korea-ifrs-snapshot.pdf"
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "ESP",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "sri-lanka",
+    "name": "Sri Lanka",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "LKA",
+    "hoverText": "Sri Lanka issued SLFRS S1 and SLFRS S2, which incorporate IFRS S1/S2. Voluntary use was allowed from 1 Jan 2024, and mandatory application began from 1 Jan 2025 for the top 100 CSE listed companies, broadening in 2026 and 2027.",
+    "officialUrl": "https://www.casrilanka.com/casl/index.php?id=4069&option=com_content",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/sri-lanka-ifrs-profile.pdf"
+  },
+  {
+    "id": "sweden",
+    "name": "Sweden",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "SWE",
+    "hoverText": "EU CSRD/ESRS is the operative baseline. First-wave entities reported for FY2024; later waves are delayed under the EU's 2025 'stop-the-clock' measure, moving most remaining large-company reporting to FY2027 and listed SME reporting to FY2028.",
+    "officialUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en",
+    "sourceUrl": "https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en"
+  },
+  {
+    "id": "taiwan",
+    "name": "Taiwan",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "TWN",
+    "hoverText": "Taiwan's FSC released a roadmap for listed companies to align with IFRS Sustainability Disclosure Standards. Mandatory application begins with FY2026 and is phased by company size, with reporting in 2027, 2028, and 2029.",
+    "officialUrl": "https://www.fsc.gov.tw/en/home.jsp?dataserno=202308180001&dtable=News&id=54&mcustomize=multimessage_view.jsp&parentpath=0%2C2",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/chinese-taipei-ifrs-profile.pdf"
+  },
+  {
+    "id": "tanzania",
+    "name": "Tanzania",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "TZA",
+    "hoverText": "Tanzania has adopted IFRS S1/S2 and future ISSB standards through NBAA Technical Pronouncement No. 1 of 2024; mandatory use applies to public interest and public-sector entities for financial years beginning on or after 1 Jan 2025.",
+    "officialUrl": "https://www.nbaa.go.tz/pages/technical-updates-2",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/tanzania-ifrs-profile.pdf"
+  },
+  {
+    "id": "thailand",
+    "name": "Thailand",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "THA",
+    "hoverText": "Thailand's SEC is still consultative. An ISSB roadmap consultation closed in Dec 2024, with follow-on consultation planned on proposed sustainability disclosure requirements; mandatory timing remains unspecified.",
+    "officialUrl": "Not identified in reviewed sources",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-snapshots/thailand-ifrs-snapshot.pdf"
+  },
+  {
+    "id": "turkey",
+    "name": "Turkey",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "TUR",
+    "hoverText": "Türkiye has fully embedded IFRS S1/S2 into TSRS 1 and TSRS 2. TSRS became mandatory for fiscal periods starting on or after 1 Jan 2024 for listed entities, financial institutions, and other in-scope large entities, with limited reliefs.",
+    "officialUrl": "https://www.kgk.gov.tr/SustainabilityDetailForm/11455/surdurulebilirlik-yayinlar",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/turkiye-ifrs-profile.pdf"
+  },
+  {
+    "id": "uganda",
+    "name": "Uganda",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "UGA",
+    "hoverText": "Uganda remains in progress. ICPAU's proposed roadmap would permit voluntary reporting from 1 Jan 2026 and phase in mandatory reporting from 2028 to 2030, but the final roadmap had not yet been issued in the reviewed sources.",
+    "officialUrl": "Not identified in reviewed sources",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-snapshots/uganda-ifrs-snapshot.pdf"
+  },
+  {
+    "id": "united-kingdom",
+    "name": "United Kingdom",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "GBR",
+    "hoverText": "The UK currently uses mandatory TCFD-aligned disclosures under the Companies Act for large companies, FCA listing-rule climate disclosures for listed issuers, and the FCA's SDR regime for asset managers; UK SRS endorsement and broader ISSB implementation remain in progress.",
+    "officialUrl": "https://www.fca.org.uk/firms/climate-change-sustainable-finance/reporting-requirements",
+    "sourceUrl": "https://www.gov.uk/government/publications/climate-related-financial-disclosures-for-companies-and-limited-liability-partnerships-llps"
+  },
+  {
+    "id": "zambia",
+    "name": "Zambia",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "ZMB",
+    "hoverText": "Zambia has adopted IFRS S1 and IFRS S2. Publicly accountable entities must apply them for annual periods beginning on or after 1 Jan 2025, while other entities may use them voluntarily.",
+    "officialUrl": "https://www.zica.co.zm/wp-content/uploads/2024/09/Circular-4-of-2023-Sustainability-standards.cleaned.pdf",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-profiles/zambia-ifrs-profile.pdf"
+  },
+  {
+    "id": "zimbabwe",
+    "name": "Zimbabwe",
+    "type": "country",
+    "parentCountry": null,
+    "isoCode": "ZWE",
+    "hoverText": "Zimbabwe remains in progress. The PAAB allowed early adoption of ISSB standards in 2022, but an adoption roadmap had not yet been issued in the reviewed sources; mandatory timing remains unspecified.",
+    "officialUrl": "Not identified in reviewed sources",
+    "sourceUrl": "https://www.ifrs.org/content/dam/ifrs/publications/sustainability-jurisdictions/pdf-snapshots/zimbabwe-ifrs-snapshot.pdf"
+  }
+]
